@@ -1,0 +1,11 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Endpoint": "src/",
+            "HTTP": "src/"
+        }
+    }
+}
